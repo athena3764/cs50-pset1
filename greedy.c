@@ -2,7 +2,8 @@
 #include <cs50.h>
 #include <math.h>
 
- /*Implement a program that calculates the minimum number of coins required to give a user change.*/
+ /*Implement a program that calculates the minimum 
+ number of coins required to give a user change.*/
 int main(void)
 {
  
