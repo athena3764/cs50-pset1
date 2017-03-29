@@ -6,7 +6,6 @@
 of coins required to give a user change.*/
 int main(void)
 {
-	
 	/*Enter the amount of money to be changed into coins*/
 	float num;
 	do 
